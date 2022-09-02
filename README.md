@@ -6,4 +6,4 @@ https://ui.adsabs.harvard.edu/abs/2021A%26A...652A.127G/abstract. Please cite th
 
 ![Mass-Radius-plot](https://github.com/ngrieves/Transiting-Brown-Dwarfs/blob/main/plots/mass_radius.pdf)
 
-This google sheet containing known information from published transiting brown dwarfs and very low mass stars https://docs.google.com/spreadsheets/d/1zGLkzwrH9-RQbL6hyso5X3Lro0zBsY0SNtIteA5hfdo/edit?usp=sharing can be downloaded as a csv file, 13-150Mjuptransitingcompanions.csv, and used within the codes to make the tables and plots. Feel free to make a copy or contact me for editing priveledges or suggestions.
+This google sheet containing known information from published transiting brown dwarfs and very low mass stars https://docs.google.com/spreadsheets/d/1zGLkzwrH9-RQbL6hyso5X3Lro0zBsY0SNtIteA5hfdo/edit?usp=sharing can be downloaded as a csv file, 13-150Mjuptransitingcompanions.csv, and used within the codes to make the tables and plots. Feel free to make a copy to edit on your own or contact me for suggestions.
